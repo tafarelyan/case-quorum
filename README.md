@@ -1,4 +1,5 @@
 ## Instructions
+Run this command in the project directory, the output files for each deliverable will be `legislators-support-oppose-count.csv` and `bills-support-oppose-count.csv`
 ```bash
 python app.py
 ```
